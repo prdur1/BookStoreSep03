@@ -1,0 +1,4 @@
+Retail_Bookstore\service\UserServiceTest.class
+Retail_Bookstore\controllerWithoutDb\ChangePasswordTest.class
+Retail_Bookstore\controllerWithoutDb\LoginTest.class
+Retail_Bookstore\controllerWithoutDb\RegisterTest.class
